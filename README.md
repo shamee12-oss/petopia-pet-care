@@ -17,7 +17,7 @@ Petopia is a responsive pet care service platform that allows users to register,
 
 1. Open [phpMyAdmin](http://localhost/phpmyadmin)
 2. Click the **Import** tab
-3. Choose the `db.sql` file from the project directory
+3. Choose the `petcaree.sql` file from the project directory
 4. Click **Go**
 
 ✅ This will create a database named **`user`** with the required tables.
