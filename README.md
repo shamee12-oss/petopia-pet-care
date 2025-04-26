@@ -25,10 +25,10 @@ Petopia is a responsive pet care service platform that allows users to register,
 ---
 
 ### 2️⃣ How to Run the Project Using XAMPP
-
-1. Move the entire project folder (`project`) into:  C:\xampp\htdocs\
-2. Start **Apache** and **MySQL** in XAMPP Control Panel
-3. Open your browser and go to:  http://localhost/project
+1.copy above files in new folder (eg: project)
+2. Move the entire project folder (`project`) into:  C:\xampp\htdocs\
+3. Start **Apache** and **MySQL** in XAMPP Control Panel
+4. Open your browser and go to:  http://localhost/project
 ---
 
 ## 📁 Folder Structure
